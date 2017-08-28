@@ -29,7 +29,6 @@ Indexeren op
 - gemeente --> beginnen per gemeente mss later via geolocatie panden in de buurt van etc.. zoekn.
  Of beet zoals zimmo...
 - aantal kamers
-- 
 
 
 appendix:
@@ -55,11 +54,15 @@ En daarop dan alarmen te zetten...
 
 
 
-=Extra data koppelen ook cursusspecifiek=
+
+Extra data koppelen ook cursusspecifiek.
 
 1. Excel files met demografische info inlezen en deze ook gebruiken om interessante regio's te zoeken.
 
 2. Eventueel per gemeente de demografische rapporten ophalen en ook zo beschikbaar maken via de tool.
+
+
+
 
 Technologie:
 ------------
