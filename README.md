@@ -33,7 +33,7 @@ Indexeren op
 
 appendix:
 ---------
-Andere interessante metrics . bvb specific op basis van Imeds cursus.
+Andere interessante metrics . bvb specific op basis van cursus.
 
 1. Alle panden ophalen die voldoen aan de verschillende rendementsberekeningen op basis
 van vraagprijs en gemiddelde huurprijs voor vergelijkbare panden.
@@ -48,7 +48,7 @@ eenvoudig toelaten vind ik heel belangrijk...
 De tool moet het grote werk wegnemen maar kan geen beslissing nemen omdat die bvb. geen foto's kan interpreteren ...
 
 4. Eenvoudig toelaten om gebruiker zelf formules te laten maken en op te slaan etc...
-En daarop dan alarmen te zetten... 
+En daarop dan alarmen te zetten... .
 
 5. Linken gemeenten en hun deelgemeenten ...
 
